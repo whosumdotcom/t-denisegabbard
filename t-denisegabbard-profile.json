@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T10:26:22Z",
+  "IdClaims": [
+    {
+      "Claim": "t:denisegabbard"
+    },
+    {
+      "Claim": "spout:denisegabbard"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e5ee6996744d054395ff3aeb",
+    "Timestamp": "2023-04-06T10:30:43Z",
+    "Signature": "50731c3af5ae14125a3de71fc2080ad75b3fbd8d23c11098f4b4f37158b8e811b4d21a97a1aca75c6bd4815dd8ea3599d80af4ad543939eaba2db462d272ea4b96fbf80c9b1ad3e86a10a0a490c81d51f1164d91ab6d843aacb1961782f93f20a8a7de30d70e82065224a008718d0f31b4425d4414f54da8c759fa862edb8e5dd38b36de0e42411ba046f4c3e663406d3d81e0acb63340995e36348f598cf8c24d9d4074df522fdddf37b375066bc8ea92b93e47fb31588c6afabf160a7a0a32aa7555c64ccdd00ab41e0f4ad7fed5f5862ad2f1024c1dbc8c2bf93dccc4d280ed12a81297ede55acbef2128220c030efaeead4bb64445ca34925f50bf71c93f"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "338725974e4008fdf57baa934d21f1080d621911bded632f24fa042a88cb56aa",
+  "ContentToHash": "v1|spout:denisegabbard,t:denisegabbard|2023-04-06T10:26:22Z"
+}
